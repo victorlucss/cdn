@@ -1,6 +1,6 @@
 # CDN
 
-Content delivery network for my projects.
+Content delivery network to my projects.
 
 ## Projects
 
